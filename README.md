@@ -4,7 +4,7 @@ A password generator that will prompt you for specifics about how you want your 
 
 ## Getting Started
 
-* Follow the link: 
+* Follow the link: https://chadbowler.github.io/password-generator/
 
 * Simply click the red "Generate Password" button, and follow the prompts.
 
