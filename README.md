@@ -4,6 +4,8 @@ A password generator that will prompt you for specifics about how you want your 
 
 ## Getting Started
 
+* Follow the link: https://chadbowler.github.io/password-generator/
+
 * Simply click the red "Generate Password" button, and follow the prompts.
 
 ### Usage
@@ -15,6 +17,10 @@ A password generator that will prompt you for specifics about how you want your 
 * Again, if you don't pick any character types, you will be notified and will have to start over.
 * Once you've gone through all of the prompts, a password will be generated, and displayed in the box on the screen.
 
+## Screenshot
+
+![Password Generator](https://user-images.githubusercontent.com/127648744/235259849-542632e4-fe2d-4c9f-93ef-7645426c75a9.png)
+
 ## License
 
 * MIT License
@@ -22,3 +28,4 @@ A password generator that will prompt you for specifics about how you want your 
 ## Contact
 
 * If you have any questions, please feel free to email me: cbowlerdev@gmail.com
+
